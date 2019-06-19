@@ -15,14 +15,14 @@
     :target: https://travis-ci.org/yngtodd/carlos
 
 
-=============================
+======
 Carlos
-=============================
+======
 
 Toy example for MCMC with Pytorch models.
 
 Documentation
---------------
+-------------
  
 For references, tutorials, and examples check out our `documentation`_.
 
